@@ -279,10 +279,7 @@ nav .fa-solid{
 
 @media only screen and (max-width: 600px) {
     #header {
-        background-image: url("https://raw.githubusercontent.com/ezrabegashaw/portfoliowebsite/main/begashawphone.png?raw=true");
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
+        background-color: red !important;
     }
 }
     .header-text h1{
