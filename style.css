@@ -277,7 +277,7 @@ nav .fa-solid{
     display: none;
 }
 
-@media only screen and (max-width: 800px){
+@media only screen and (max-width: 1200px){
     #header{
         <img src="https://raw.githubusercontent.com/ezrabegashaw/portfoliowebsite/main/begashawphone.png" width="100%">
     }
