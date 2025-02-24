@@ -277,10 +277,14 @@ nav .fa-solid{
     display: none;
 }
 
-@media only screen and (max-width: 600px){
-    #header{
-        background-image: url("https://raw.githubusercontent.com/ezrabegashaw/portfoliowebsite/main/begashawphone.png");
+@media only screen and (max-width: 600px) {
+    #header {
+        background-image: url("https://raw.githubusercontent.com/ezrabegashaw/portfoliowebsite/main/begashawphone.png?raw=true");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
     }
+}
     .header-text h1{
         font-size: 30px;
 
