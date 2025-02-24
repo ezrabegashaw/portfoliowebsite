@@ -280,6 +280,9 @@ nav .fa-solid{
 @media only screen and (max-width: 1200px){
     #header{
         <img src="https://raw.githubusercontent.com/ezrabegashaw/portfoliowebsite/main/begashawphone.png" width="100%">
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
     }
     .header-text{
         margin-top: 100%;
